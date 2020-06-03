@@ -12,8 +12,4 @@ export default new Vuex.Store({
     auth,
   },
   strict: debug,
-  state: {
-    post2: ''
-  }
-
 })

@@ -1,5 +1,3 @@
-
-
 <template>
   <div class="home">
     <loading v-if="loading"/>
@@ -32,7 +30,7 @@
   }
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 .home {
     display: flex;
     align-items: center;

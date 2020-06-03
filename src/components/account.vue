@@ -1,5 +1,3 @@
-
-
 <template>
   <div class="container">
     <section>
@@ -102,7 +100,7 @@
   }
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 
 hr {
 	margin: 20px 0;
